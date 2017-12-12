@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 package org.springframework.samples.petclinic.model;
-
+erreur
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashSet;
